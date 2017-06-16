@@ -1,0 +1,5 @@
+**/build
+**/firmware
+**/bin
+*.local.h
+*.gch
